@@ -4,6 +4,16 @@
 "id":1,
 "productname":"Redmi 5 (Gold, 32 GB)  (3 GB RAM)",
 "image":"https://rukminim1.flixcart.com/image/832/832/jgl5gnk0/mobile/9/b/u/mi-redmi-5-na-original-imaf4snfnnpfubng.jpeg?q=70"
+},
+{
+"id":2,
+"productname":"Redmi Note 5 Pro (Gold, 64 GB)  (4 GB RAM)",
+"image":"https://rukminim1.flixcart.com/image/832/832/jdkjzww0/mobile/y/q/m/redmi-note-5-pro-mzb6084in-original-imaf2g8zj6y5vkqn.jpeg?q=70"
+},
+{
+"id":3,
+"productname":"Redmi 5A (Gold, 32 GB)  (3 GB RAM)",
+"image":"https://rukminim1.flixcart.com/image/832/832/jaij3bk0/mobile/f/x/h/mi-redmi-5a-c3b-original-imafy2gfpyybwyyd.jpeg?q=70"
 }
 ],
 "productdetails":[
@@ -13,6 +23,20 @@
 "price":"9888",
 "image":"https://rukminim1.flixcart.com/image/832/832/jgl5gnk0/mobile/9/b/u/mi-redmi-5-na-original-imaf4snfnnpfubng.jpeg?q=70",
 "highlights":"3 GB RAM | 32 GB ROM | Expandable Upto 128 GB 5.7 inch HD+ Display 12MP Rear Camera | 5MP Front Camera 3300 mAh Battery Qualcomm Snapdragon 450 Processor"
+},
+{
+"id":2,
+"productname":"Redmi Note 5 Pro (Gold, 64 GB)  (4 GB RAM)",
+"image":"https://rukminim1.flixcart.com/image/832/832/jdkjzww0/mobile/y/q/m/redmi-note-5-pro-mzb6084in-original-imaf2g8zj6y5vkqn.jpeg?q=70",
+"price":"14,999",
+"highlights":"4 GB RAM | 64 GB ROM | Expandable Upto 128 GB 5.7 inch HD+ Display 12MP Rear Camera | 5MP Front Camera 3300 mAh Battery Qualcomm Snapdragon 450 Processor"
+},
+{
+"id":3,
+"productname":"Redmi 5 (Gold, 32 GB)  (3 GB RAM)",
+"image":"https://rukminim1.flixcart.com/image/832/832/jaij3bk0/mobile/f/x/h/mi-redmi-5a-c3b-original-imafy2gfpyybwyyd.jpeg?q=70",
+"price":"14,999",
+"highlights":"3 GB RAM | 32 GB ROM | Expandable Upto 128 GB 5 inch HD Display 13MP Rear Camera | 5MP Front Camera 3000 mAh Li-polymer Battery Qualcomm Snapdragon 425 Processor"
 }
 ]
 }
